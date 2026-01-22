@@ -1,0 +1,371 @@
+html {
+    font-family: sans-serif;
+
+}
+
+body {
+    width: 100%;
+}
+
+.anav {
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.anav:hover {
+    color: #005eff;
+    transition: 0.4s;
+}
+
+.search {
+    position: absolute;
+    left: 1050px;
+    width: 60px;
+    height: 60px;
+}
+
+.register {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    left: 900px;
+    top: 25px;
+    padding: 6px;
+    background: linear-gradient(158deg, rgba(17, 53, 130, 1) 33%, rgba(0, 25, 255, 1) 51%, rgba(0, 255, 221, 1) 73%);
+    border-radius: 70px;
+}
+
+.psslim {
+    position: absolute;
+    left: 480px;
+    top: 100px;
+
+}
+
+nav {}
+
+.wee {
+    position: absolute;
+    top: 100px;
+    float: left;
+    font-size: 45px;
+    left: 60px;
+}
+
+.blabla {
+    position: absolute;
+    top: 350px;
+    left: 60px;
+    font-size: 20px;
+    color: #4885e8;
+}
+
+.hihyn {
+    position: absolute;
+    top: 400px;
+    font-size: 10px;
+    left: 60px;
+    color: gray;
+}
+
+.moreinfo {
+    text-decoration: none;
+    color: white;
+    background-color: #1252b8;
+    padding: 10px 15px;
+    border-radius: 30px;
+    position: absolute;
+    top: 440px;
+    left: 60px;
+}
+
+.moreinfo:hover {
+    box-shadow: 0px 0px 10px 3px #1252b8;
+    transition: 0.5s linear;
+}
+
+.buy {
+    text-decoration: none;
+    color: white;
+    background-color: #f78707;
+    padding: 10px 15px;
+    border-radius: 30px;
+    position: absolute;
+    top: 440px;
+    left: 225px;
+}
+
+.buy:hover {
+    box-shadow: 0px 0px 10px 3px #f78707;
+    transition: 0.5s linear;
+}
+
+.Games {
+    background-color: #171716;
+    position: absolute;
+    top: 500px;
+    width: 100%;
+    height: 700px;
+}
+
+
+.rex {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.yt {
+    opacity: 0.5;
+}
+
+.yt:hover {
+    opacity: 1;
+    transition: 0.7s ease-out;
+
+}
+
+.arcriders {
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 70px;
+    font-size: 15px;
+}
+
+.imgarcriders {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    top: 100px;
+    left: 70px;
+}
+
+
+.ggg {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
+
+iframe {
+    position: absolute;
+    top: 1600px;
+}
+
+.qqqq {
+
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 300px;
+    font-size: 15px;
+}
+
+.www {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 100px;
+    border-radius: 10px;
+    left: 530px;
+}
+
+.eeee {
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 530px;
+    font-size: 15px;
+}
+
+.rrr {
+
+    position: absolute;
+    top: 100px;
+    left: 760px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.tttt {
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 760px;
+
+}
+
+.yyy {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 400px;
+    left: 300px;
+    border-radius: 10px;
+}
+
+.uuuu {
+    color: white;
+    position: absolute;
+    top: 590px;
+    left: 300px;
+}
+
+.GTAV {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 400px;
+    left: 570px;
+    border-radius: 10px;
+}
+
+.GTA {
+    color: white;
+    position: absolute;
+    top: 590px;
+    left: 570px;
+}
+
+.richnytsa {
+    position: absolute;
+    top: 1250px;
+    float: left;
+    font-size: 50px;
+    left: 60px;
+}
+
+.imgcentury {
+    position: absolute;
+    left: 700px;
+    top: 1250px;
+}
+
+.velykebla {
+    color: gray;
+    position: absolute;
+    left: 60px;
+    top: 1360px;
+    font-size: 18px;
+}
+
+.join {
+    text-decoration: none;
+    color: white;
+    background-color: #1252b8;
+    padding: 10px 15px;
+    border-radius: 30px;
+    position: absolute;
+    top: 1490px;
+    left: 40px;
+}
+
+.join:hover {
+    box-shadow: 0px 0px 10px 3px #1252b8;
+    transition: 0.5s linear;
+}
+
+.History {
+    text-decoration: none;
+    color: white;
+    background-color: #1252b8;
+    padding: 10px 15px;
+    border-radius: 30px;
+    position: absolute;
+    top: 1490px;
+    left: 310px;
+}
+
+.History:hover {
+    box-shadow: 0px 0px 10px 3px #1252b8;
+    transition: 0.5s linear;
+}
+
+.gamess {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.gamess article {
+    width: 200px;
+}
+
+.yuiop {
+    background-color: #f0f7ff;
+
+}
+
+footer {
+
+    position: relative;
+    top: 1500px;
+    background-color: #0040ff;
+    padding: 20px;
+}
+
+.gararam {
+    color: white;
+    text-align: center;
+}
+
+.garram::before {
+    width: 100px;
+    height: 50px;
+}
+header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    padding: 10px 40px;
+    height: 70px;
+}
+
+.anav {
+    text-decoration: none;
+    color: #1f1f1f;
+    margin: 0 12px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: 0.2s;
+}
+
+.anav:hover {
+    color: #0070d1;
+}
+
+
+.register {
+    text-decoration: none;
+    color: white;
+    padding: 8px 20px;
+    background: #0070d1; 
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: auto; 
+}
+
+.search {
+    width: 24px;
+    height: 24px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+htk-hcwa-yxn
